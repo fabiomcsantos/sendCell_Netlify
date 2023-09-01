@@ -1,0 +1,31 @@
+{
+    "celulares": [
+    {
+        "title": "Smartphone Xiaomi Note 12S 256GB - 8GB Ram",
+        "marca": "Xiaomi",
+        "modelo": "Note 12S",
+        "sistema": "Android",
+        "image": "https://m.media-amazon.com/images/I/61LvXyda+6L._AC_SX679_.jpg",
+        "price": 1340.84,
+        "url": "https://www.amazon.com.br/Smartphone-Xiaomi-Note-12S-256GB/dp/B0C2W21JSM?ref_=Oct_d_otopr_d_16243890011_0&pd_rd_w=pNgVD&content-id=amzn1.sym.578aa6a5-6bfa-4747-975c-cee0f889732e&pf_rd_p=578aa6a5-6bfa-4747-975c-cee0f889732e&pf_rd_r=EFDGBRMWRQD5WNQY30C8&pd_rd_wg=qorl5&pd_rd_r=16568e54-926f-41b2-b275-7f7e29082371&pd_rd_i=B0C2W21JSM"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G 128GB 8GB RAM",
+        "marca": "SAMSUNG",
+        "modelo": "Galaxy A54 5G",
+        "sistema": "Android",
+        "image": "https://m.media-amazon.com/images/I/6162-GjVT-L._AC_SL1500_.jpg",
+        "price": 1943.00,
+        "url": "https://www.amazon.com.br/dp/B0BXB3YX31/ref=sspa_dk_detail_0?sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&th=1"
+    },
+    {
+        "title": "Samsung Galaxy S22 256GB 5G Wi-Fi Tela 6.1'' Dual Chip 8GB RAM",
+        "marca": "SAMSUNG",
+        "modelo": "Galaxy S22 5G",
+        "sistema": "Android",
+        "image": "https://m.media-amazon.com/images/I/71vxQuUlq+L._AC_SL1500_.jpg",
+        "price": 3059.10,
+        "url": "https://www.amazon.com.br/dp/B0BRQPTRQF/ref=sspa_dk_detail_3?psc=1p13NParams&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy"
+    }
+    ]
+}

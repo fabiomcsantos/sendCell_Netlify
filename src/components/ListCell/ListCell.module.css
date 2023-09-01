@@ -1,0 +1,55 @@
+
+.titleH3 {
+    color: #414141;
+    font-size: 20px;
+  }
+  
+ .titleH5 {
+    color: #757575;
+    font-size: 14px;
+
+  }
+  
+  .content {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    width: 800px;
+    height: 400px;
+    margin: 8px;
+    border-radius: 10px;
+    
+  }
+  
+  .imagens {
+    max-width: 250px;
+    text-align: center;
+  }
+  
+  .informations {
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    padding: 5px;
+    line-height: 12px;
+    margin-left: 16px;
+  }
+  
+  .botao {
+    margin: 8px;
+    color: #2c5e59;
+    background-color: #8abbb6;
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    border: #2c5e59;
+  }
+  
+  .botao:hover {
+    color: #5f2e1a;
+    background-color: #ad6c52;
+    border: #5f2e1a;
+  }
+  

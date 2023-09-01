@@ -1,0 +1,16 @@
+/* 
+.principal {
+  background-color: #dadada;
+  display: flex;  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 16px;
+  flex-wrap: wrap;
+}
+
+h2 {
+  color: #525252;
+} */
